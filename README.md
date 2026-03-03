@@ -16,9 +16,12 @@ cd ConnectUS
 
 ## Initialiser les projets
 ```bash
+git submodule update --init --recursive
 cd frontend 
+git checkout main
 npm i 
 cd ../backend
+git checkout main
 npm i
 ```
 ## Démarrer l'application
