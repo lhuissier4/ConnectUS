@@ -1,6 +1,8 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:lhuissier4/ConnectUSFrontend.git
+	branch = main
 [submodule "backend"]
 	path = backend
 	url = git@github.com:lhuissier4/ConnectUSBackend.git
+	branch = main
