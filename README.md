@@ -8,6 +8,8 @@ Il s'agit d'un projet NextJS créé via la commande `npx create-next-app@latest 
 Il s'agit d'un projet NestJS initialisé avec `nest new backend`
 
 # Dévelopement
+Ce projet est un projet Node v24.7.0
+
 Pour installer Nestjs :
 ```bash
 npm install -g @nestjs/cli
